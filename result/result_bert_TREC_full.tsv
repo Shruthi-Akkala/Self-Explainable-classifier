@@ -1,0 +1,479 @@
+predicted_labels	true_labels	lil_interpretations	gil_interpretations
+5	5	[('to aspen', -0.7417865693569183), ('from denver', -0.7873714566230774), ('from denver to aspen', -0.8817115500569344)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	[('modest ##o', -0.8364709615707397), ('modest ##o , california', -0.9606691412627697)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[('was galileo', -0.6971350312232971), ('who was galileo', -0.723871260881424)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+2	2	[('an atom', -0.7769851386547089), ('is an atom', -0.8561082780361176), ('what is an atom', -0.9109654054045677)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('a state', -0.6950382888317108)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+5	5	[('the sears', -0.8548924773931503), ('the sears building', -0.8843368217349052), ('is the sears building', -0.9471287280321121)]	['What exactly is radiation ?', 'What is paracetamol ?']
+3	3	[('in which', -0.6916221082210541), ('a small interest', -0.7329585552215576), ('baseball team', -0.7499053776264191), ('in which baseball team', -0.7687850594520569)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	2	[('turn orange', -0.6531482636928558)]	['Where is Romania located ?', 'What is a portal ?']
+2	2	[('is autism', -0.8132282197475433), ('what is autism', -0.8839815929532051)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('in 1900', -0.8496946543455124), ('a world fair', -0.9408553503453732)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	"[(""person ' s"", -0.739602118730545), ('a dime', -0.7451808750629425), ('on a dime', -0.7922210544347763), ('is on a dime', -0.8242438435554504)]"	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[('a yellow labrador', -0.7056889235973358), ('of a yellow labrador', -0.8190007358789444)]	['What is a Canada two-penny black ?', 'How much does a poodle weigh ?']
+3	3	[('the pacific ocean', -0.7603698968887329), ('across the pacific ocean', -0.7644495517015457)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+5	5	[('a state', -0.7318842709064484)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+5	5	[('for cricket ##s', -0.7584547251462936), ('for cricket', -0.7758092731237411)]	['What exactly is radiation ?', 'How fast is a 45Mhz processor ?']
+1	1	[('the highest melting point', -0.876758761703968)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+3	3	[('against pol ##io', -0.5895891189575195), ('pol ##io', -0.5925533473491669)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('ep ##ile ##psy', -0.8460382223129272), ('is ep ##ile ##psy', -0.8981312066316605)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+5	5	[('the titanic', -0.8138041347265244), ('did the titanic sink', -0.9097977578639984)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+3	3	[('in space', -0.6482456624507904), ('walk in space', -0.6728723347187042), ('to walk in space', -0.7154344618320465)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('a bio ##sphere', -0.8954025134444237), ('is a bio ##sphere', -0.9473683796823025)]	['What is a portal ?', 'Where is Romania located ?']
+4	4	[('the us', -0.8758725374937057), ('in the us', -0.9339674636721611), ('the big muddy', -0.9362445846199989), ('as the big muddy', -0.966091226786375)]	"[""What is `` Vocal Sampling '' ?"", 'How many Gutenberg Bibles are there ?']"
+2	2	[('bipolar disorder', -0.8222713321447372), ('is bipolar disorder', -0.8897068798542023), ('what is bipolar disorder', -0.935906745493412)]	['What is a portal ?', 'Where is Romania located ?']
+2	2	[('cho ##les ##terol', -0.8973710387945175), ('is cho ##les ##terol', -0.9487324729561806)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('the macintosh computer', -0.7696054875850677), ('developed the macintosh computer', -0.7796090096235275)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('caf ##fe ##ine', -0.8931913822889328), ('is caf ##fe ##ine', -0.9415436908602715)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+4	4	[('north and south', -0.6677790284156799)]	['What is a portal ?', 'What is an aurora ?']
+4	4	[('john wayne', -0.8689812570810318), ('john wayne airport', -0.9366497248411179)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+4	4	[('the philippines', -0.8528043478727341), ('is the philippines in', -0.9536301009356976)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+5	5	[('the kentucky derby', -0.8000560253858566), ('the horses', -0.8257273286581039), ('at the kentucky derby', -0.8701762557029724), ('of the horses', -0.9023167714476585)]	['How much does a poodle weigh ?', 'When was Ozzy Osbourne born ?']
+4	4	[('the rocky mountains', -0.8997432366013527)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('are invertebrates', -0.7801548093557358), ('what are invertebrates', -0.8212862759828568)]	"[""Why can 't ostriches fly ?"", 'What is an aurora ?']"
+5	5	[('the earth', -0.8122510612010956), ('the center', -0.88321153819561), ('of the earth', -0.8833301290869713)]	['How fast is a 45Mhz processor ?', 'When was Ozzy Osbourne born ?']
+5	5	[('elected as president', -0.7163029611110687), ('as president', -0.7245567739009857), ('get elected as president', -0.7560524195432663)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+5	5	[('when he died', -0.6254743933677673), ('he died', -0.6568300127983093), ('elvis presley', -0.6825514435768127)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+5	5	[('the net', -0.6891400814056396), ('in tennis', -0.7335873246192932), ('from the net', -0.748879998922348), ('the service line', -0.9038060754537582)]	['What corporation does Madonna advertise for ?', 'What corporation does Madonna advertise for ?']
+5	5	[('per day', -0.7609657049179077), ('have per day', -0.8192794024944305), ('how much', -0.865269735455513)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+5	5	[('are there', -0.8008380830287933), ('how many', -0.8624703586101532)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+1	1	[('what plant', -0.6781906187534332), ('called linen', -0.6835257112979889), ('from what plant', -0.7138426899909973), ('made from what plant', -0.7490115463733673)]	"[""Why can 't ostriches fly ?"", 'What is SAP ?']"
+2	2	[('te ##fl ##on', -0.8713720142841339), ('is te ##fl ##on', -0.9280459135770798)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('a shaman', -0.8529220968484879), ('is a shaman', -0.9155428931117058), ('what is a shaman', -0.9511939324438572)]	['Where is Romania located ?', 'What is a portal ?']
+1	1	[('a female wal', -0.7264014780521393), ('a female wal ##rus', -0.7522687017917633)]	['What U.S. Government agency registers trademarks ?', 'Name a tiger that is extinct']
+1	1	[('of turkey ##s', -0.5956477522850037), ('turkey ##s', -0.6089431047439575)]	['Name a flying mammal', 'Name four comic strips about pilots']
+5	5	[('##le sleep', -0.6228428781032562), ('rip van wink', -0.7473272383213043)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('a gallon', -0.7946774959564209), ('in a gallon', -0.8675758391618729)]	['When was Ozzy Osbourne born ?', 'What exactly is radiation ?']
+3	3	[('in san francisco', -0.7368036508560181), ('san francisco', -0.7438647747039795), ('the chocolate company', -0.7449183762073517)]	['Name the tree growing company', 'Who were the 1974 Oscar winners ?']
+2	2	[('amp ##hi ##bians', -0.8083463460206985), ('are amp ##hi ##bians', -0.8903401270508766)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('x - rays', -0.7668043822050095), ('discovered x - rays', -0.7896300256252289)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+3	3	[('can we talk', -0.5168439149856567)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('worn or outdated', -0.8097554743289948)]	['How do storms form ?', 'What is a portal ?']
+0	2	[('in engines', -0.4830428808927536)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('elvis presley', -0.6776512265205383)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+4	4	[('the capital', -0.8368302136659622), ('of yugoslavia', -0.8563366681337357)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+4	4	[('is milan', -0.868583545088768), ('where is milan', -0.9331254586577415)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('the speed', -0.8819504082202911), ('the speed humming', -0.938629575073719)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+4	4	[('the united states', -0.9408127702772617), ('in the united states', -0.9722212832421064)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+4	4	[('moor ##head', -0.870550200343132), ('north dakota', -0.8872924149036407), ('moor ##head , minnesota', -0.9706180207431316)]	"[""What is `` Vocal Sampling '' ?"", 'What company makes impulse hardening equipment ?']"
+1	1	[('do bats eat', -0.7502291351556778), ('what do bats eat', -0.78213170170784)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+4	4	[('big ##horn', -0.7987641543149948), ('of big ##horn', -0.831303596496582), ('the battle', -0.8399197161197662), ('take place in', -0.8792747333645821)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[('abraham lincoln', -0.6573804914951324), ('was abraham lincoln', -0.6879110038280487), ('who was abraham lincoln', -0.7098909020423889)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+1	1	[('a newborn kangaroo', -0.7113135457038879)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	2	[('spider veins', -0.7741115093231201), ('are spider veins', -0.869523823261261), ('what are spider veins', -0.9205259829759598)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('john lennon', -0.5932193398475647), ('did john lennon die', -0.6193890273571014)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+4	4	[('north america', -0.8736913204193115), ('from asia', -0.8866348564624786)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+5	5	[('of seattle', -0.8366146385669708), ('the population', -0.8534423261880875)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+5	5	[('the titanic', -0.7242074012756348), ('a ticket', -0.7995799034833908), ('for the titanic', -0.8043327480554581)]	['What exactly is radiation ?', 'What is paracetamol ?']
+4	4	[('the world', -0.8696994930505753), ('in the world', -0.9268518462777138)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[('the music', -0.7456233203411102), ('west side story', -0.7695410698652267)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+4	4	[('the america', -0.8484882414340973), ('of the america', -0.9164458885788918)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('the ph scale', -0.834989383816719), ('is the ph scale', -0.9047708660364151)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+1	1	[('in australia', -0.6808139085769653), ('of currency', -0.7242034673690796), ('used in australia', -0.733812004327774), ('what type', -0.7405596673488617), ('is used in australia', -0.7729011625051498)]	['Name a flying mammal', 'Define Sinn Fein']
+5	5	[('st . louis', -0.7401498258113861), ('the gateway arch', -0.8760078251361847)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+5	5	[]	['When was Ozzy Osbourne born ?', 'What exactly is radiation ?']
+3	3	[('of alaska', -0.6551575362682343)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('a prism', -0.8061762303113937), ('is a prism', -0.8840814530849457), ('what is a prism', -0.93283262103796)]	['What is a portal ?', 'What is an aurora ?']
+5	5	[]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+3	3	[('south africa', -0.6499990522861481), ('of south africa', -0.6668329834938049), ('in 1994', -0.6671883761882782), ('president of south africa', -0.6783775091171265)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[('of china', -0.8232048004865646), ('the population', -0.8479772806167603)]	['What city does Orly Airport serve ?', 'When was Ozzy Osbourne born ?']
+5	5	[('rosa parks', -0.7101899683475494)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+2	2	[('a lady', -0.7992793619632721)]	['Where is Romania located ?', 'What is a portal ?']
+2	2	[('##ox ##ici ##llin', -0.8202951699495316)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('come from', -0.8405331671237946), ('ponce de leon', -0.9228601083159447)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('paper currency', -0.7050860822200775), ('during which', -0.7156353294849396), ('during which war', -0.7513260096311569)]	"['What U.S. Government agency registers trademarks ?', ""Why can 't ostriches fly ?""]"
+2	2	[('desktop publishing', -0.7455446720123291), ('is desktop publishing', -0.8241093456745148), ('what is desktop publishing', -0.8829263523221016)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	"[(""the sun ' s"", -0.8973976597189903)]"	['How fast is a 45Mhz processor ?', 'How do you reference a website ?']
+5	5	[('the united nations', -0.7918557077646255), ('join the united nations', -0.8664912134408951)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+3	3	[('the us', -0.713661402463913), ('in the us', -0.7162812352180481)]	['Name the largest country in South America', 'Who developed the first polio vaccine ?']
+4	4	[('prince edward', -0.8628062307834625), ('prince edward island', -0.9374665059149265)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('was it discovered', -0.8755323812365532)]	['How fast is a 45Mhz processor ?', 'What exactly is radiation ?']
+2	2	[('cry ##ogenic ##s', -0.8443163931369781), ('is cry ##ogenic ##s', -0.9057013019919395)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('coral reefs', -0.8043857961893082), ('are coral reefs', -0.8889524638652802), ('what are coral reefs', -0.9421680606901646)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	1	[('baseball - winning', -0.8413229137659073)]	['How long does a dog sleep ?', 'Who won World War II ?']
+2	2	[('ne ##uro ##logy', -0.8588313013315201), ('is ne ##uro ##logy', -0.9161800518631935)]	['What is a portal ?', 'Where is Romania located ?']
+3	3	[]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('measure earthquakes', -0.7900330722332001)]	['Where is Romania located ?', 'What is a portal ?']
+3	3	[('duke ellington', -0.6731641590595245), ('is duke ellington', -0.703524649143219), ('who is duke ellington', -0.7295985519886017)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+4	4	[('phoenix , az', -0.9175525084137917), ('phoenix , az in', -0.9552630260586739)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('the temperature', -0.8627205193042755), ('is the temperature', -0.9404792822897434), ('what is the temperature', -0.9776049684733152)]	['How fast is a 45Mhz processor ?', 'What is a virtual IP address ?']
+1	1	[('ohio state', -0.7050751447677612)]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+5	5	[]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+4	4	[('the u . s', -0.9807275589555502)]	"[""What is `` Vocal Sampling '' ?"", ""Who was Tiny Tim 's father ?""]"
+1	1	[('a poison arrow frog', -0.5984315872192383), ('poison arrow', -0.6219955682754517)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('the state', -0.7161841690540314), ('of alaska', -0.7304971814155579), ('the state of alaska', -0.7982673645019531), ('the coastline', -0.8353231698274612)]	['How many watts make a kilowatt ?', 'How much does a poodle weigh ?']
+3	3	"[(""neil armstrong ' s"", -0.7888764441013336)]"	"['Name the largest country in South America', ""Name Alvin 's brothers""]"
+1	1	[]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+3	3	[('in 1989', -0.7098227143287659)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+1	1	[]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+5	5	[('the world series', -0.7969421297311783), ('won the world series', -0.8441912680864334), ('the chicago cubs', -0.851184144616127)]	['How much does a poodle weigh ?', 'How many acres in a mile ?']
+4	4	[('is perth', -0.866256982088089), ('where is perth', -0.9278492704033852)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('did wwii begin', -0.8787292093038559)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+5	5	[('a golf ball', -0.8159149289131165), ('of a golf ball', -0.8926961869001389)]	['How fast is a 45Mhz processor ?', 'How many quarters equal a pound ?']
+2	2	[('an eclipse', -0.8008010983467102), ('is an eclipse', -0.8832386806607246), ('what is an eclipse', -0.9315134584903717)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+3	3	[('discovered america', -0.7486158013343811), ('who discovered america', -0.7782240808010101)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[]	['How fast is a 45Mhz processor ?', 'How many quarters equal a pound ?']
+3	3	[('was unmarried', -0.698258101940155), ('which president', -0.7254197001457214), ('which president was unmarried', -0.7617042064666748)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+5	5	[('milky way', -0.7825290262699127), ('the milky way galaxy', -0.8923607841134071)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+5	5	[('most thunder ##storm ##s', -0.7859604507684708), ('which season', -0.8483038991689682)]	['How fast is a 45Mhz processor ?', 'How do you use an intranet ?']
+2	2	[('is wimbledon', -0.835055410861969), ('what is wimbledon', -0.9004731997847557)]	['What is a portal ?', 'Where is Romania located ?']
+5	5	[('a cat', -0.6911608874797821), ('for a cat', -0.7309886813163757)]	['How fast is a 45Mhz processor ?', 'How many watts make a kilowatt ?']
+5	5	[('a nautical mile', -0.9173812344670296), ('is a nautical mile', -0.9642184041440487)]	['What exactly is radiation ?', 'When was Ozzy Osbourne born ?']
+3	3	"[(""harper ' s ferry"", -0.5920908153057098), ('in 1859', -0.602777898311615), ('the raid', -0.6121116280555725), (""harper ' s"", -0.635911613702774)]"	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+2	2	[]	['Where is Romania located ?', 'What is a portal ?']
+1	1	[('into space', -0.7190774381160736), ('go into space', -0.7502374351024628), ('to go into space', -0.7829455435276031)]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+2	2	[]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+2	1	[('near kentucky', -0.789768323302269)]	['What is a portal ?', 'Where is Romania located ?']
+4	4	[('the holland tunnel', -0.911288857460022)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[('amazing grace', -0.6120105683803558)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+3	3	[('willie davis', -0.6822437942028046), ('play in baseball', -0.7026205062866211), ('in baseball', -0.7106736600399017)]	['Name the largest country in South America', 'How many maids were milking ?']
+2	2	[('plate ##lets', -0.7475769519805908), ('are plate ##lets', -0.8528460711240768), ('what are plate ##lets', -0.9161537885665894)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('se ##verance pay', -0.8299413323402405), ('is se ##verance pay', -0.9063095524907112)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	"[(""roy roger ' s"", -0.6895362734794617)]"	['Name a flying mammal', 'Name a tiger that is extinct']
+4	4	[('the national archives', -0.8915656954050064)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('a baby turkey', -0.6677801609039307)]	['Name a flying mammal', 'Name a tiger that is extinct']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('the human body', -0.717695027589798), ('in the human body', -0.7601555287837982)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+3	3	[('a german philosopher', -0.736721396446228), ('is a german philosopher', -0.7778070271015167)]	"['Name the largest country in South America', ""Name Alvin 's brothers""]"
+1	1	[]	['Name a flying mammal', 'Name four comic strips about pilots']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('nico ##tine', -0.8096866458654404), ('is nico ##tine', -0.8819814473390579), ('what is nico ##tine', -0.9301816076040268)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+1	1	[('for vitamin b1', -0.6725971400737762), ('vitamin b1', -0.676256537437439)]	['What U.S. Government agency registers trademarks ?', 'How much does a poodle weigh ?']
+3	3	[('ra ##dium', -0.8144025355577469), ('discovered ra ##dium', -0.8314350694417953), ('who discovered ra ##dium', -0.8563963770866394)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('suns ##pot ##s', -0.7886033952236176)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('algeria colon', -0.784839078783989)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+3	3	[('part of their uniform', -0.40903353691101074), ('of their uniform', -0.48820793628692627), ('their uniform', -0.5777276754379272), ('the first', -0.6991448998451233)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+4	4	[('is egypt on', -0.9037699922919273)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+4	4	[('the capital', -0.8401317745447159), ('of mongolia', -0.8573292195796967)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('nano ##tech ##nology', -0.8540394604206085), ('is nano ##tech ##nology', -0.904022827744484)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('which colony', -0.880312979221344), ('##ulate which colony', -0.9457101747393608)]	"[""What are `` inkhorn terms '' ?"", ""What is `` Vocal Sampling '' ?""]"
+4	4	[('lower 48', -0.8620412200689316), ('the geographic center', -0.9361497014760971), ('the lower 48 states', -0.9692030567675829)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+2	2	[('what are polymers', -0.8727976083755493)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('the caribbean', -0.8184842318296432), ('in the caribbean', -0.9044283479452133)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	[('ma ##una lo ##a', -0.9386557936668396)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('the northern lights', -0.5735026299953461)]	['Name a novel written by John Steinbeck', 'The Jewish alphabet is called what ?']
+4	4	[('spain part', -0.8469413965940475), ('spain part of', -0.9038369208574295), ('is spain part of', -0.9453085660934448)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+5	5	[]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+4	4	[('of rain', -0.7877697050571442), ('per year', -0.8118064254522324), ('the least amount', -0.9180551245808601)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+3	3	[('american red cross', -0.65412837266922), ('founded american red cross', -0.695720911026001)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[('the atlanta braves', -0.7855925261974335), ('the milwaukee braves', -0.8513759672641754), ('become the atlanta braves', -0.8591737300157547)]	['How fast is a 45Mhz processor ?', 'When was Ozzy Osbourne born ?']
+5	5	[('is alcohol absorbed', -0.7859093695878983)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+5	5	[]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+2	2	[('super ##nova', -0.7266063988208771), ('is super ##nova', -0.8208486586809158), ('what is super ##nova', -0.8967788144946098)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What are `` inkhorn terms '' ?""]"
+4	4	[('live free', -0.8397681266069412), ('live free or die', -0.9553276561200619)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('the first stamp', -0.7617739886045456)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+1	1	[('to make orange', -0.6998836696147919), ('make orange', -0.7005143463611603), ('mix to make orange', -0.7323290109634399)]	"[""Why can 't ostriches fly ?"", 'How long do cardinal eggs incubate ?']"
+5	5	[('the sun', -0.7073530852794647), ('from the sun', -0.7445109486579895)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	[('what body', -0.8617629110813141), ('of water', -0.8639766722917557), ('the canary islands', -0.9019287005066872), ('the canary islands in', -0.9428859762847424)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+2	2	[('ne ##uro ##pathy', -0.8783516585826874), ('is ne ##uro ##pathy', -0.9306718558073044)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('crypt ##ography', -0.8180488646030426), ('is crypt ##ography', -0.8964722380042076), ('what is crypt ##ography', -0.9456306397914886)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('composed of', -0.6909289062023163), ('natural gas', -0.7282594740390778)]	"[""Why can 't ostriches fly ?"", 'What is SAP ?']"
+3	3	[('of canada', -0.6873326301574707)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+3	3	[('the battle', -0.7259826064109802), ('of waterloo', -0.7989794760942459), ('the battle of waterloo', -0.8615110069513321)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('is leukemia', -0.8161893486976624), ('what is leukemia', -0.8891647905111313)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('howard hughes', -0.8851348832249641)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('for june', -0.4454272389411926)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	1	[('in minnesota', -0.816782534122467)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('the sun', -0.7617151290178299), ('the earth', -0.7801249623298645), ('to the sun', -0.7952017039060593), ('from the earth', -0.8435058742761612), ('in miles', -0.864917978644371)]	['How many watts make a kilowatt ?', 'How much does a poodle weigh ?']
+5	5	[('a chicken', -0.7365104258060455), ('for a chicken', -0.7914189398288727)]	['How fast is a 45Mhz processor ?', 'What exactly is radiation ?']
+5	5	[]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+2	2	[('relative humidity', -0.8104713261127472), ('is relative humidity', -0.8902384117245674), ('what is relative humidity', -0.9429721981287003)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('the zip code', -0.9203265234827995), ('35 ##8 ##24', -0.9242764562368393), ('of 35 ##8 ##24', -0.9597521647810936)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('in algeria', -0.6808235049247742), ('used in algeria', -0.7160723209381104), ('is used in algeria', -0.7409655451774597)]	['Name a flying mammal', 'Define Sinn Fein']
+3	3	[]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[('in 1957', -0.6074129343032837), ('most popular', -0.6748458445072174)]	['Name a flying mammal', 'Name four comic strips about pilots']
+1	1	[('##ram ##i', -0.6015732288360596), ('made of', -0.658054918050766)]	"[""Why can 't ostriches fly ?"", 'What is SAP ?']"
+1	1	[('the satellite', -0.7341473400592804), ('in 1957', -0.7447233200073242), ('into space', -0.7757018059492111), ('the soviet union', -0.7911621481180191)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+4	4	"[(""city ' s"", -0.9206119477748871), ('the en ##qui ##rer', -0.9342831671237946)]"	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[('backbone ##s', -0.6826291084289551), ('have backbone ##s called', -0.8084187656641006)]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+5	5	[('of copper', -0.7432481944561005)]	['How fast is a 45Mhz processor ?', 'How many watts make a kilowatt ?']
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[('the united states', -0.7619982957839966), ('of the united states', -0.7909095883369446)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[]	['When was Ozzy Osbourne born ?', 'How do you reference a website ?']
+2	2	[('acid rain', -0.7619585990905762), ('of acid rain', -0.8489268720149994)]	['Where is Romania located ?', 'What is a portal ?']
+5	5	[('the draft', -0.7003414630889893), ('the united states', -0.8118933588266373)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+5	5	[('of light', -0.8173861056566238), ('the speed', -0.8496856987476349), ('the speed of light', -0.9490137211978436)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	[('is montreal in', -0.9223814234137535)]	"[""What is `` flintknapping '' ?"", ""What is `` Vocal Sampling '' ?""]"
+4	4	[('the twin towers', -0.886045552790165), ('as the twin towers', -0.9303649961948395)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('is fungus', -0.7797864973545074), ('what is fungus', -0.84068463742733)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('in the netherlands', -0.5350570678710938), ('the netherlands', -0.5671366453170776), ('most frequently', -0.6798526644706726)]	"[""Why can 't ostriches fly ?"", 'Define Sinn Fein']"
+2	2	[('sodium chloride', -0.7714683562517166), ('is sodium chloride', -0.8539837598800659), ('what is sodium chloride', -0.913602851331234)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('on domino ##es', -0.661959171295166), ('domino ##es', -0.7055181562900543)]	['Define Sinn Fein', 'What are liver enzymes ?']
+5	5	[('a ton', -0.8254335522651672), ('how many', -0.8641144335269928), ('in a ton', -0.897465206682682)]	['What exactly is radiation ?', 'What is a Canada two-penny black ?']
+2	2	[('is influenza', -0.8066353797912598), ('what is influenza', -0.8804666772484779)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+2	2	[]	['What is a portal ?', 'Where is Romania located ?']
+5	5	[('the mona lisa', -0.6909602582454681)]	['How fast is a 45Mhz processor ?', 'What corporation does Madonna advertise for ?']
+2	2	[('sitting shiva', -0.8258597105741501)]	['What is a portal ?', 'Where is Romania located ?']
+5	1	[('madrid , spain', -0.7219580113887787), ('in madrid , spain', -0.8024443984031677)]	['What is proposition 98 about ?', 'How many countries watch MTV Europe ?']
+4	4	[('to georgia', -0.8526609390974045), ('from maine', -0.8576718866825104), ('north america', -0.8738892823457718), ('in north america', -0.9201248586177826)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+1	1	[('made of', -0.6531702280044556), ('plastic made of', -0.6939943730831146), ('is plastic made of', -0.7029841244220734)]	"[""Why can 't ostriches fly ?"", 'What is SAP ?']"
+5	5	[('of nigeria', -0.8208873718976974), ('the population', -0.8506491482257843)]	['What city does Orly Airport serve ?', 'When was Ozzy Osbourne born ?']
+2	2	[]	['Where is Romania located ?', 'What is a portal ?']
+4	4	[('the grand canyon', -0.9174741357564926)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	[('the telephone', -0.660591185092926), ('invented the telephone', -0.7142038643360138), ('who invented the telephone', -0.7495411038398743)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[('buy alaska', -0.6803941428661346)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+3	3	[('of ireland', -0.7057003080844879), ('the leader', -0.7097233533859253), ('the leader of ireland', -0.7769867181777954)]	"['Name the largest country in South America', ""Name Alvin 's brothers""]"
+5	5	[('of water', -0.7626072466373444), ('a cubic foot', -0.8586892932653427), ('in a cubic foot', -0.9032150954008102)]	['What exactly is radiation ?', 'What is paracetamol ?']
+3	1	[('the legislative branch', -0.7553025186061859), ('of the legislative branch', -0.8258596360683441)]	['Who wrote The Godfather ?', 'What U.S. Government agency registers trademarks ?']
+2	2	[('is sonar', -0.8247176855802536), ('what is sonar', -0.8808783516287804)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('most people', -0.8265525847673416)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('is phosphorus', -0.806851789355278), ('what is phosphorus', -0.8746222034096718)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('the sea', -0.8143118023872375), ('tran ##quil ##ity', -0.8477861136198044), ('of tran ##quil ##ity', -0.9104803949594498)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('how fast', -0.8736614137887955), ('is sound', -0.877381257712841), ('how fast is sound', -0.9722235202789307)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+4	4	[('produced in', -0.7900447845458984), ('co ##gna ##c', -0.8702907264232635)]	"[""What is `` flintknapping '' ?"", ""What is `` Vocal Sampling '' ?""]"
+2	2	"[(""valentine ' s"", -0.7885615080595016)]"	['When did Iraqi troops invade Kuwait ?', 'When did World War I start ?']
+2	2	[('gray hair', -0.8035538494586945), ('causes gray hair', -0.8907538279891014), ('what causes gray hair', -0.9431647136807442)]	['Where is Romania located ?', 'What is a portal ?']
+2	2	[('hyper ##tension', -0.814318060874939), ('is hyper ##tension', -0.8923258110880852), ('what is hyper ##tension', -0.9440986551344395)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('is bandwidth', -0.8236239850521088), ('what is bandwidth', -0.8718237802386284)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('the u . s', -0.9760204702615738)]	"['What U.S. Government agency registers trademarks ?', ""What is `` Vocal Sampling '' ?""]"
+2	2	[('a parasite', -0.774050697684288), ('is a parasite', -0.8447788059711456), ('what is a parasite', -0.8910430446267128)]	['What is a portal ?', 'What is an aurora ?']
+2	2	[('home equity', -0.8040825426578522), ('is home equity', -0.8911740928888321), ('what is home equity', -0.9422951154410839)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+2	2	[('meteor ##ologists', -0.7838681787252426)]	['What is a portal ?', 'What are shooting stars ?']
+2	1	[('legally blind', -0.7790961116552353), ('being legally blind', -0.8731021285057068), ('for being legally blind', -0.9260038807988167)]	['Where is Romania located ?', 'What is a portal ?']
+3	3	[('the world', -0.7309476733207703), ('in the world', -0.7677372097969055)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	4	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('in ##vent', -0.60612753033638), ('in 1903', -0.6243771314620972), ('howard smith', -0.6825868189334869)]	['Define Sinn Fein', 'Name a flying mammal']
+1	1	[('of liberty', -0.6212262809276581), ('made of', -0.6576013565063477), ('the statue', -0.6689497530460358)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+2	2	[('pi ##lates', -0.8005923479795456), ('is pi ##lates', -0.8825063705444336), ('what is pi ##lates', -0.9348340108990669)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+5	5	[('the nile river', -0.9329607933759689), ('of the nile river', -0.9722186010330915)]	['How fast is a 45Mhz processor ?', 'When was Ozzy Osbourne born ?']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[]	['How long does a dog sleep ?', 'What exactly is radiation ?']
+3	3	[('the brooklyn dodgers', -0.7434239089488983), ('for the brooklyn dodgers', -0.7668548077344894)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+3	3	[('of canada', -0.6692643165588379)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[('how many', -0.8804890885949135)]	['What corporation does Madonna advertise for ?', 'What corporation does Madonna advertise for ?']
+1	1	[('glenn miller', -0.7191697657108307), ('did glenn miller play', -0.8039381504058838)]	['Name a flying mammal', 'Define Sinn Fein']
+5	5	[('of arc', -0.5588387548923492), ('when she died', -0.615074634552002), ('joan of arc', -0.6617717146873474), ('she died', -0.6699947118759155)]	['What exactly is radiation ?', 'What is paracetamol ?']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('diane ##tics', -0.7705592513084412), ('is diane ##tics', -0.8750570863485336), ('what is diane ##tics', -0.9391687661409378)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('the capital', -0.8492193818092346), ('of ethiopia', -0.8697254806756973)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('an elephant', -0.762906476855278), ('how long', -0.8617267459630966), ('is an elephant pregnant', -0.8924860879778862)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+2	2	[]	['Where is Romania located ?', 'What is a portal ?']
+1	1	[('in iceland', -0.6777447462081909)]	['Name a Sioux language', 'What U.S. Government agency registers trademarks ?']
+2	2	[('fm radio stations', -0.7096273601055145), ('am radio stations', -0.8007927685976028)]	"[""Why can 't ostriches fly ?"", 'Where is Romania located ?']"
+3	3	[('the u . s', -0.6402371227741241)]	['Who were the 1974 Oscar winners ?', 'What U.S. Government agency registers trademarks ?']
+2	2	[('pe ##yo ##te', -0.8213545233011246), ('is pe ##yo ##te', -0.900812603533268)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	2	[]	['What is Sinn Fein ?', 'What do penguins eat ?']
+2	2	[('vis ##cos ##ity', -0.8427512347698212), ('is vis ##cos ##ity', -0.9086326211690903)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('a state', -0.7600578218698502), ('become a state', -0.8115587383508682)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+0	0	[('for texas', -0.856199786067009), ('the abbreviation', -0.8593699038028717)]	['Aspartame is also called what ?', 'What U.S. Government agency registers trademarks ?']
+1	1	[('out of', -0.6676494181156158), ('made out of', -0.6933380365371704)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+4	4	[('a mortar ##board', -0.8445823490619659), ('the body', -0.8572441190481186), ('a mortar ##board worn', -0.8756879791617393), ('on the body', -0.8770852312445641)]	['Who wrote The Godfather ?', 'How do storms form ?']
+0	0	[('stand for', -0.852484866976738)]	['What U.S. Government agency registers trademarks ?', 'Aspartame is also called what ?']
+2	2	[('the chun ##nel', -0.8570993095636368), ('is the chun ##nel', -0.921303391456604)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('hitler buried', -0.8286774307489395), ('is hitler buried', -0.9094972088932991), ('where is hitler buried', -0.9517404139041901)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('ant ##ac ##ids', -0.7798982709646225), ('are ant ##ac ##ids', -0.8536707311868668)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+2	2	[]	['What is a portal ?', 'Where is Romania located ?']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'Where is Romania located ?']"
+4	4	[('the u . s', -0.985930965282023)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	1	[('foot and mouth', -0.8894880712032318)]	['What is a portal ?', 'What is an aurora ?']
+5	5	[('a dollar bill', -0.8888780623674393), ('of a dollar bill', -0.9405782073736191)]	['How do you reference a website ?', 'How fast is a 45Mhz processor ?']
+1	1	[('a professional map drawer', -0.7878609150648117)]	['How do I impress a guy ?', 'How do you fix squeaky floors ?']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'Where is Romania located ?']"
+2	2	[('hybrid ##ization', -0.8243913799524307), ('is hybrid ##ization', -0.9018860459327698), ('what is hybrid ##ization', -0.9459717124700546)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('what color', -0.6931052803993225), ('is indigo', -0.7132100760936737), ('what color is indigo', -0.7477985620498657)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+5	5	[('a car', -0.7636208385229111), ('in italy', -0.8038564175367355), ('to be', -0.8422566205263138)]	['How do you reference a website ?', 'When was Ozzy Osbourne born ?']
+1	1	[]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+1	1	[]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+0	0	[('stand for', -0.8321228623390198)]	['What was archy , and mehitabel ?', 'Who is the leader of India ?']
+5	5	[('go on strike', -0.6052353084087372), ('on strike', -0.6148088872432709), ('the nfl', -0.7404108941555023)]	['How fast is a 45Mhz processor ?', 'What city does Orly Airport serve ?']
+2	2	[('solar wind', -0.8000731915235519), ('is solar wind', -0.8667356818914413), ('what is solar wind', -0.9209772273898125)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('neil armstrong', -0.6520099341869354), ('the moon', -0.7410285472869873), ('on the moon', -0.7554209679365158), ('land on the moon', -0.7782395929098129)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+5	5	[('was hiroshima bombed', -0.8466120362281799), ('when was hiroshima bombed', -0.9269762858748436)]	['What exactly is radiation ?', 'What province is Edmonton located in ?']
+4	4	[('the savannah river', -0.9179849997162819)]	"[""What is `` Vocal Sampling '' ?"", ""What are `` inkhorn terms '' ?""]"
+3	3	[('the vietnam war', -0.7215030491352081), ('in the vietnam war', -0.7523647546768188)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+4	4	[('all the planets', -0.8973280265927315), ('of all the planets', -0.919213093817234), ('the strongest magnetic field', -0.9278416186571121)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+3	3	[('of alaska', -0.6631710827350616), ('the governor', -0.7116028368473053)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+5	5	[('in italy', -0.7058546245098114), ('seize power in italy', -0.7077119648456573)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+4	4	[('the capital', -0.8472786098718643), ('of persia', -0.8722813725471497)]	"[""What is `` flintknapping '' ?"", ""What is `` Vocal Sampling '' ?""]"
+5	5	[('an octopus', -0.7408789098262787), ('does an octopus have', -0.8295547962188721), ('how many', -0.8681681007146835)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+2	2	[('is pneumonia', -0.834549605846405), ('what is pneumonia', -0.9066116437315941)]	['What is a portal ?', 'Where is Romania located ?']
+4	4	[('the us', -0.8700587153434753), ('in the us', -0.9297129511833191)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+2	2	[('a fuel cell', -0.8481815457344055), ('is a fuel cell', -0.9064615145325661)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('on tv', -0.6582283079624176), ('to appear on tv', -0.6803221106529236), ('appear on tv', -0.6857755184173584)]	['What U.S. Government agency registers trademarks ?', 'Who were the 1974 Oscar winners ?']
+4	4	[('little league', -0.8677702397108078)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('of twins', -0.6104311645030975)]	['Name four comic strips about pilots', 'Name a flying mammal']
+4	4	[('the brightest star', -0.9274778068065643), ('is the brightest star', -0.9625109955668449)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('is diabetes', -0.8345927149057388), ('what is diabetes', -0.9049942195415497)]	['Where is Romania located ?', 'What is a portal ?']
+5	5	[('president kennedy', -0.7292913198471069)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+0	0	[('is t ##m ##j', -0.6816796362400055), ('t ##m ##j', -0.7226570248603821)]	['What U.S. Government agency registers trademarks ?', 'Aspartame is also called what ?']
+1	1	[('ya ##k milk', -0.7544228881597519), ('is ya ##k milk', -0.7688482403755188)]	"['What is SAP ?', ""Why can 't ostriches fly ?""]"
+5	5	[('dwight d . eisenhower', -0.6958622932434082)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+0	0	[('is ##d ##n mean', -0.6164126992225647), ('##d ##n', -0.6896957904100418)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	2	[('the sun', -0.7568087577819824)]	['Where is Romania located ?', 'What is a portal ?']
+5	5	[('dollars and pounds', -0.8945414274930954), ('between dollars and pounds', -0.9520315788686275)]	['How fast is a 45Mhz processor ?', 'How many different countries export coffee ?']
+5	5	[('abraham lincoln', -0.6552690267562866)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+2	2	[('the milky way', -0.8798979371786118), ('is the milky way', -0.9308245554566383)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('is mold', -0.8038859963417053), ('what is mold', -0.8617927432060242)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('was mozart born', -0.8809846714138985)]	['How fast is a 45Mhz processor ?', 'When was Ozzy Osbourne born ?']
+1	1	[('of frogs', -0.6064898073673248), ('a group', -0.6524701118469238)]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+1	1	"[(""william penn ' s"", -0.7933957874774933)]"	['Who painted the Sistine Chapel ?', 'Name a flying mammal']
+5	5	[('of gold', -0.7595766931772232)]	['How fast is a 45Mhz processor ?', 'What exactly is radiation ?']
+4	4	[('the white house', -0.8041588664054871), ('of the white house', -0.8957778438925743)]	"[""What is `` Vocal Sampling '' ?"", 'What high school does Archie attend ?']"
+2	2	[('se ##mo ##lina', -0.8503512144088745), ('is se ##mo ##lina', -0.9065318778157234)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('made from', -0.6442597210407257), ('mel ##ba sauce', -0.6674122512340546)]	['Name a flying mammal', 'Name a tiger that is extinct']
+2	2	[('ur ##sa major', -0.8889822587370872), ('is ur ##sa major', -0.9481324590742588)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+5	5	[('the human body', -0.7884355783462524), ('water content', -0.7918838411569595), ('in the human body', -0.8434061110019684), ('of water content', -0.8741342425346375)]	['How many different countries export coffee ?', 'What is proposition 98 about ?']
+5	5	[('does water weigh', -0.8794239610433578)]	['What exactly is radiation ?', 'When was Ozzy Osbourne born ?']
+5	5	[('windsor , ontario', -0.8545819669961929), ('in windsor , ontario', -0.9108720123767853)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+3	3	[('non - consecutive', -0.703126072883606)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+5	5	[('of australia', -0.8224028646945953), ('the population', -0.8461835980415344)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+3	3	[('the sis ##tine chapel', -0.8807011693716049)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('the climate', -0.767940491437912), ('on the climate', -0.8282346725463867), ('of volcanoes', -0.843834176659584)]	['Where is Romania located ?', 'What is a portal ?']
+5	5	[('andy griffith', -0.6944210231304169), ('the andy griffith show', -0.7888626456260681)]	['What city does Orly Airport serve ?', 'How fast is a 45Mhz processor ?']
+2	2	[('acid rain', -0.7452064752578735), ('is acid rain', -0.8396322429180145), ('what is acid rain', -0.9048098027706146)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	"[(""mexico ' s"", -0.7365926802158356), (""mexico ' s independence"", -0.7651339173316956)]"	['How fast is a 45Mhz processor ?', 'What city does Orly Airport serve ?']
+4	4	[('lake champ', -0.8416741043329239), ('lake champ ##lain', -0.9108156859874725), ('of lake champ ##lain', -0.9507424123585224)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+1	1	[]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+2	2	[('quick ##sil ##ver', -0.8381484597921371), ('is quick ##sil ##ver', -0.901254341006279)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[('of light', -0.8615821599960327), ('the speed', -0.8811937123537064)]	['How fast is a 45Mhz processor ?', 'What is a Canada two-penny black ?']
+5	5	[('a football field', -0.8928493559360504), ('of a football field', -0.9479564093053341)]	['How many quarters equal a pound ?', 'How much does a poodle weigh ?']
+2	2	[('zero points', -0.8214000910520554), ('called love', -0.8234040886163712), ('zero points called love', -0.9288974478840828)]	['Where is Romania located ?', 'What is a portal ?']
+1	1	[('of oz', -0.6186861097812653), ('the wizard', -0.6756934523582458), ('the wizard of oz', -0.6945648491382599), ('of dog', -0.7183158695697784), ('what kind', -0.7261982262134552)]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+2	2	[('a thyroid', -0.842065155506134), ('is a thyroid', -0.9152178838849068), ('what is a thyroid', -0.9559515826404095)]	['What is a portal ?', 'Where is Romania located ?']
+2	2	[('cia ##o', -0.6534384787082672)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('from the heart', -0.305881530046463), ('the lungs', -0.3145717978477478), ('the heart', -0.32411864399909973), ('to the lungs', -0.3428850471973419), ('blue blood', -0.3624875843524933)]	['What U.S. Government agency registers trademarks ?', 'How many Canadians emmigrate each year ?']
+5	5	[('old faithful', -0.7279414236545563), ('at yellowstone national park', -0.7290200591087341), ('yellowstone national park', -0.7302235662937164)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+2	2	[('ace ##tic acid', -0.8245154917240143), ('is ace ##tic acid', -0.8875475972890854)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('st . louis', -0.8327132910490036)]	['What instrument does Benny Carter play ?', 'What is a Certified Nurse Midwife ?']
+1	1	[('a strong acid', -0.7623208463191986), ('lit ##mus paper', -0.778750941157341), ('with a strong acid', -0.7981467545032501)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+1	1	[('the german flag', -0.7599373757839203), ('of the german flag', -0.7991047650575638)]	"['What U.S. Government agency registers trademarks ?', ""Why can 't ostriches fly ?""]"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('the black sea', -0.8923827707767487), ('on the black sea', -0.935233823955059)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('of silver', -0.8616290539503098)]	['What is a Canada two-penny black ?', 'How fast is a 45Mhz processor ?']
+1	1	[('in brazil', -0.5894494354724884), ('use in brazil', -0.6595934629440308)]	['Name a flying mammal', 'Define Sinn Fein']
+2	2	[('pathogen ##s', -0.7787605971097946), ('what are pathogen ##s', -0.903217040002346)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('mad cow', -0.788607195019722), ('mad cow disease', -0.8422288596630096), ('is mad cow disease', -0.9091804027557373)]	['What is a portal ?', 'Where is Romania located ?']
+1	1	[('high in zinc', -0.7477402091026306), ('in zinc', -0.7714355885982513)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+5	5	[('the union', -0.6386986374855042), ('enter the union', -0.6421457827091217)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+4	4	[('apple snails', -0.8236484378576279)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('are ethics', -0.8635498136281967), ('what are ethics', -0.9256079643964767)]	['Where is Romania located ?', 'What is a portal ?']
+0	0	[('stand for', -0.8413067907094955)]	['Aspartame is also called what ?', 'What U.S. Government agency registers trademarks ?']
+2	2	[('an ann ##uity', -0.7949920445680618), ('is an ann ##uity', -0.8824840784072876)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+3	3	[('the u . s', -0.6518430411815643)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[('is turquoise', -0.638778954744339)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+3	3	[('in an automobile', -0.5760776400566101), ('an automobile', -0.5838120579719543), ('to his inauguration', -0.6519719660282135), ('his inauguration', -0.6612065136432648)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+5	5	[('the united states', -0.8410740047693253), ('of the united states', -0.8956032544374466), ('the youngest president', -0.9214715659618378)]	['What exactly is radiation ?', 'What happened to Answers.com ?']
+5	5	[]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+2	2	[('a panic disorder', -0.898179829120636), ('is a panic disorder', -0.949807345867157)]	['What is a portal ?', 'What is an aurora ?']
+2	2	[]	['What is a portal ?', 'What is an aurora ?']
+1	1	[('a baby lion', -0.6727854609489441)]	['Name a flying mammal', 'Name a tiger that is extinct']
+5	5	[]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+2	2	[('ne ##pot ##ism', -0.8167911618947983), ('is ne ##pot ##ism', -0.8942677155137062)]	['What is a portal ?', 'Where is Romania located ?']
+2	2	[('die - casting', -0.8598938286304474), ('is die - casting', -0.9207289516925812)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('my ##op ##ia', -0.8547675460577011), ('is my ##op ##ia', -0.9210457354784012)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+5	5	[('new york', -0.8115690350532532), ('sales tax', -0.835729718208313), ('in new york', -0.9033441543579102)]	['What exactly is radiation ?', 'What province is Edmonton located in ?']
+5	5	"[('what percentage', -0.8306868970394135), (""the world ' s"", -0.8904924094676971)]"	['What exactly is radiation ?', 'How long does a dog sleep ?']
+4	4	[('fourth highest', -0.854596421122551), ('the world', -0.8587137460708618), ('in the world', -0.9088924154639244)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+3	3	"[(""shakespeare ' s"", -0.7657071948051453)]"	"[""Name Alvin 's brothers"", 'Name the largest country in South America']"
+1	1	[]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+5	5	"[(""father ' s"", -0.7658302634954453)]"	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+0	0	[('stand for', -0.8241214156150818), ('the acronym', -0.8242739588022232)]	['What U.S. Government agency registers trademarks ?', 'Aspartame is also called what ?']
+5	5	[('in miles', -0.8187326788902283), ('the columbia river', -0.8606766164302826)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	"[('the star', -0.7963036298751831), (""city ' s"", -0.9189005270600319)]"	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('carbon dioxide', -0.7970411032438278), ('is carbon dioxide', -0.8577224165201187), ('what is carbon dioxide', -0.9103556498885155)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+2	2	[('is metabolism', -0.8432819247245789), ('what is metabolism', -0.9032478109002113)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('laugh - in', -0.6444398164749146)]	['What U.S. Government agency registers trademarks ?', 'Madonna advertises for what soft drink ?']
+1	1	[('made of', -0.6431640088558197), ('cigarettes made of', -0.6950286030769348)]	['What is SAP ?', 'Name a flying mammal']
+4	4	[('the capital', -0.8447838425636292), ('of zimbabwe', -0.8617649078369141)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+0	0	[('stand for', -0.8184982091188431)]	['Who is the leader of India ?', 'What is tyvek ?']
+1	1	[('of michigan', -0.7140043079853058)]	"['What U.S. Government agency registers trademarks ?', ""Why can 't ostriches fly ?""]"
+2	2	[('semiconductor ##s', -0.7748990654945374), ('what are semiconductor ##s', -0.918419137597084)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('nuclear power', -0.8200699388980865), ('is nuclear power', -0.8777905479073524), ('what is nuclear power', -0.9239818826317787)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('a tsunami', -0.8172845244407654), ('is a tsunami', -0.8990693911910057), ('what is a tsunami', -0.9430938586592674)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('armed forces', -0.6895192861557007), ('of texas', -0.7477938234806061), ('the armed forces committee', -0.7730296850204468), ('state of texas', -0.7994366139173508), ('from state of texas', -0.8447415679693222)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+3	3	[('in 1913', -0.6654392778873444), ('was president in 1913', -0.737957239151001)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+5	5	[]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('the atlantic', -0.692348301410675), ('across the atlantic', -0.7152966260910034), ('the plane', -0.7484006583690643), ('lin ##dberg ##h', -0.8487791866064072)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	2	[('is genocide', -0.8398466110229492), ('what is genocide', -0.8983931615948677)]	['What is a portal ?', 'Where is Romania located ?']
+4	4	[('is argentina on', -0.9080901592969894)]	"[""What does `` Philebus-like '' mean ?"", ""What is `` Vocal Sampling '' ?""]"
+4	1	[('by vikings', -0.8754393085837364), ('the late eighth century', -0.9326691031455994)]	"[""What is `` Vocal Sampling '' ?"", ""What are `` inkhorn terms '' ?""]"
+2	2	[('an earthquake', -0.815254271030426), ('is an earthquake', -0.8912293687462807), ('what is an earthquake', -0.9379366748034954)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+4	4	[]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('what are enzymes', -0.8735176920890808)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('discovered oxygen', -0.7949646264314651), ('who discovered oxygen', -0.831562265753746)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('mas ##h', -0.6398280262947083)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('the tiger', -0.6586536765098572), ('to the tiger', -0.6824072003364563), ('louisiana state university', -0.7142817080020905), ('at louisiana state university', -0.7196767628192902)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+4	4	[]	"[""What is `` flintknapping '' ?"", ""What is `` Vocal Sampling '' ?""]"
+3	3	[('the north pole', -0.7719860523939133), ('reach the north pole', -0.783255860209465)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+2	2	[('an ul ##cer', -0.8568888604640961), ('is an ul ##cer', -0.9245577976107597)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+2	2	[('is vertigo', -0.8448183685541153), ('what is vertigo', -0.9118767008185387)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+5	5	[('of summer', -0.8257223069667816)]	['What exactly is radiation ?', 'How fast is a 45Mhz processor ?']
+0	0	[('the abbreviation', -0.8102904111146927)]	['What U.S. Government agency registers trademarks ?', 'Aspartame is also called what ?']
+1	1	[('in britain', -0.7071213126182556)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+3	3	[('trivial pursuit', -0.689681351184845), ('invented trivial pursuit', -0.7133541107177734), ('who invented trivial pursuit', -0.7452463209629059)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[('the tr ##op ##osphere', -0.6796346008777618)]	['Name four comic strips about pilots', 'How do you select wine ?']
+4	4	[('the most water pollution', -0.931391105055809)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('for elephant', -0.6327881813049316)]	"['Name a flying mammal', ""Why can 't ostriches fly ?""]"
+3	3	[('the movie', -0.7075421214103699), ('her role', -0.7241421341896057)]	['Who were the 1974 Oscar winners ?', 'Name the largest country in South America']
+1	1	[('beverly hill', -0.6089737117290497), ('hunting dog', -0.6671231985092163), ('of hunting dog', -0.7071983814239502)]	['Name a flying mammal', 'Who painted the Sistine Chapel ?']
+4	4	[('##iest place', -0.833685889840126), ('on earth', -0.8498593270778656)]	"[""What is `` flintknapping '' ?"", ""What is `` Vocal Sampling '' ?""]"
+3	3	[('the nobel prize', -0.640937477350235), ('in literature', -0.6963152289390564)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[('the color pink', -0.603016197681427), ('the color', -0.6050114035606384), ('get the color pink', -0.6135741174221039), ('be mixed', -0.7058088481426239), ('to be mixed', -0.7381213903427124)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+1	1	[('in japan', -0.6982643008232117), ('most popular', -0.7131507098674774)]	['Name a flying mammal', 'Name a tiger that is extinct']
+1	1	[('baking soda', -0.7741220146417618), ('in baking soda', -0.7828236669301987)]	['What U.S. Government agency registers trademarks ?', 'When is a woman most fertile ?']
+5	5	[('thomas jefferson', -0.6944474875926971)]	['What city does Orly Airport serve ?', 'What province is Edmonton located in ?']
+5	5	[('a refrigerator', -0.7598079591989517), ('should a refrigerator be', -0.8603754639625549)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+5	5	[('the telephone', -0.7375962436199188)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+1	1	[]	['What is your favorite color ?', 'Name a tiger that is extinct']
+4	4	[('the united states', -0.911831833422184), ('in the united states', -0.9493498392403126)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+2	2	[('is schizophrenia', -0.8280463218688965), ('what is schizophrenia', -0.8945425376296043)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	3	[('jesse jackson', -0.6820760667324066)]	['Name the largest country in South America', 'Name the tree growing company']
+1	1	[]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+4	4	[('in utah', -0.8514734208583832)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+4	4	[('which state', -0.8609585613012314), ('the cats ##kill mountains', -0.9449689127504826)]	"[""What is `` Vocal Sampling '' ?"", ""What are `` inkhorn terms '' ?""]"
+1	1	[]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	2	[('pediatric ##ians', -0.7849121987819672), ('what are pediatric ##ians', -0.9302045330405235)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+3	3	[('benton ##ville , arkansas', -0.5841614305973053), ('benton ##ville', -0.605010986328125)]	['What U.S. Government agency registers trademarks ?', 'Who developed the first polio vaccine ?']
+2	2	[('solar cells', -0.7853749990463257), ('what are solar cells', -0.9120810180902481)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('compound ##ed interest', -0.8612897396087646), ('is compound ##ed interest', -0.9288969114422798)]	['What is a portal ?', 'Where is Romania located ?']
+2	2	[('cape ##rs', -0.732432633638382), ('are cape ##rs', -0.8193477988243103), ('what are cape ##rs', -0.8795853853225708)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('an antigen', -0.8060932755470276), ('is an antigen', -0.871226966381073), ('what is an antigen', -0.9206944033503532)]	"['What is a portal ?', ""Why can 't ostriches fly ?""]"
+1	1	[('does luxembourg use', -0.6825048327445984)]	['Name a flying mammal', 'Define Sinn Fein']
+5	5	[('of venezuela', -0.8213739097118378), ('the population', -0.8475552350282669)]	['When was Ozzy Osbourne born ?', 'What city does Orly Airport serve ?']
+1	1	[('what type', -0.7064222991466522), ('of polymer', -0.7145267128944397), ('bullet ##proof vest ##s', -0.80851911008358)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+1	1	[('does argentina use', -0.7342396676540375)]	['Name a flying mammal', 'Name a tiger that is extinct']
+2	2	[]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+4	4	[('the largest population', -0.9394342377781868), ('has the largest population', -0.9688410367816687)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+1	1	[('cricket ##s', -0.6876614093780518)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+4	4	[('of liberty', -0.7887598425149918), ('the statue', -0.818375289440155), ('new york', -0.8514180481433868), ('the statue of liberty', -0.9159766733646393)]	"[""What is `` Vocal Sampling '' ?"", ""What does `` Philebus-like '' mean ?""]"
+1	1	[('into space', -0.7958270609378815), ('sent into space', -0.8499220013618469)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+1	1	[('a form', -0.666868269443512), ('pure carbon', -0.6925917267799377), ('of pure carbon', -0.7357350289821625)]	"[""Why can 't ostriches fly ?"", 'Name a flying mammal']"
+1	1	[('of gas', -0.7421367764472961), ('what kind', -0.7472476661205292), ('a fluorescent bulb', -0.8094453811645508), ('in a fluorescent bulb', -0.8352071195840836)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+4	4	[('through rowe', -0.848525807261467), ('runs through rowe', -0.9229197800159454)]	"[""What is `` Vocal Sampling '' ?"", 'How many Gutenberg Bibles are there ?']"
+2	2	[('cerebral pal ##sy', -0.8492648154497147), ('is cerebral pal ##sy', -0.9148876816034317)]	['What is a portal ?', 'Where is Romania located ?']
+4	4	[('the west', -0.8413346409797668), ('the gateway', -0.8549996763467789), ('to the west', -0.9023945331573486)]	"[""What is `` Vocal Sampling '' ?"", ""What is `` flintknapping '' ?""]"
+5	5	[('the moon', -0.7867119014263153), ('is the moon', -0.8702803254127502)]	['What exactly is radiation ?', 'What city does Orly Airport serve ?']
+2	1	[('natural gas', -0.6445938497781754), ('of natural gas', -0.6909410208463669)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('his historic 1961 flight', -0.6917433440685272), ('what spacecraft', -0.7559272646903992)]	"[""Why can 't ostriches fly ?"", 'What U.S. Government agency registers trademarks ?']"
+2	2	[('pe ##ct ##in', -0.899346612393856), ('is pe ##ct ##in', -0.9449383690953255)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+2	2	[('bio - diversity', -0.8704837709665298), ('is bio - diversity', -0.9264430403709412)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
+1	1	[('wall ##paper', -0.7221244275569916), ('remove wall ##paper', -0.7916153967380524), ('to remove wall ##paper', -0.8520376831293106)]	"['Define Sinn Fein', ""Why can 't ostriches fly ?""]"
+5	5	[('its journey', -0.703925371170044), ('the titanic', -0.7771010398864746), ('on its journey', -0.780478909611702), ('start on its journey', -0.8136330097913742)]	['What city does Orly Airport serve ?', 'What exactly is radiation ?']
+5	5	[('an apple', -0.6718042492866516), ('is water', -0.6964188516139984), ('of an apple', -0.786265030503273)]	['What exactly is radiation ?', 'How long does a dog sleep ?']
+3	3	[('the us', -0.7576890736818314), ('of the us', -0.7966100424528122)]	['Name the largest country in South America', 'Who were the 1974 Oscar winners ?']
+1	1	[('in zambia', -0.7548800408840179), ('they use in zambia', -0.8004210144281387), ('use in zambia', -0.8162988424301147)]	['What U.S. Government agency registers trademarks ?', 'How many Canadians emmigrate each year ?']
+5	5	[('a mile', -0.8320754170417786), ('in a mile', -0.9029818698763847)]	['What exactly is radiation ?', 'What is a Canada two-penny black ?']
+1	1	[('of october', -0.6222751140594482), ('the births', -0.6501723229885101)]	"[""Why can 't ostriches fly ?"", 'Name the Four Horsemen of the Apocalypse']"
+2	2	[('e - coli', -0.8512789309024811), ('is e - coli', -0.9116559401154518)]	"[""Why can 't ostriches fly ?"", 'What is a portal ?']"
