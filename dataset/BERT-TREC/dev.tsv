@@ -1,0 +1,501 @@
+	text	coarse_label	fine_label
+0	How far is it from Denver to Aspen ?	5	40
+1	What county is Modesto , California in ?	4	32
+2	Who was Galileo ?	3	31
+3	What is an atom ?	2	24
+4	When did Hawaii become a state ?	5	39
+5	How tall is the Sears Building ?	5	40
+6	George Bush purchased a small interest in which baseball team ?	3	28
+7	What is Australia 's national flower ?	1	14
+8	Why does the moon turn orange ?	2	27
+9	What is autism ?	2	24
+10	What city had a world fair in 1900 ?	4	32
+11	What person 's head is on a dime ?	3	29
+12	What is the average weight of a Yellow Labrador ?	5	49
+13	Who was the first man to fly across the Pacific Ocean ?	3	29
+14	When did Idaho become a state ?	5	39
+15	What is the life expectancy for crickets ?	5	43
+16	What metal has the highest melting point ?	1	18
+17	Who developed the vaccination against polio ?	3	29
+18	What is epilepsy ?	2	24
+19	What year did the Titanic sink ?	5	39
+20	Who was the first American to walk in space ?	3	29
+21	What is a biosphere ?	2	24
+22	What river in the US is known as the Big Muddy ?	4	35
+23	What is bipolar disorder ?	2	24
+24	What is cholesterol ?	2	24
+25	Who developed the Macintosh computer ?	3	29
+26	What is caffeine ?	2	24
+27	What imaginary line is halfway between the North and South Poles ?	4	35
+28	Where is John Wayne airport ?	4	35
+29	What hemisphere is the Philippines in ?	4	35
+30	What is the average speed of the horses at the Kentucky Derby ?	5	46
+31	Where are the Rocky Mountains ?	4	34
+32	What are invertebrates ?	2	24
+33	What is the temperature at the center of the earth ?	5	47
+34	When did John F. Kennedy get elected as President ?	5	39
+35	How old was Elvis Presley when he died ?	5	44
+36	Where is the Orinoco River ?	4	35
+37	How far is the service line from the net in tennis ?	5	40
+38	How much fiber should you have per day ?	5	38
+39	How many Great Lakes are there ?	5	38
+40	Material called linen is made from what plant ?	1	14
+41	What is Teflon ?	2	24
+42	What is amitriptyline ?	2	24
+43	What is a shaman ?	2	24
+44	What is the proper name for a female walrus ?	1	2
+45	What is a group of turkeys called ?	1	2
+46	How long did Rip Van Winkle sleep ?	5	44
+47	What are triglycerides ?	2	24
+48	How many liters in a gallon ?	5	38
+49	What is the name of the chocolate company in San Francisco ?	3	28
+50	What are amphibians ?	2	24
+51	Who discovered x-rays ?	3	29
+52	Which comedian 's signature line is `` Can we talk '' ?	3	29
+53	What is fibromyalgia ?	2	24
+54	What is done with worn or outdated flags ?	2	25
+55	What does cc in engines mean ?	2	24
+56	When did Elvis Presley die ?	5	39
+57	What is the capital of Yugoslavia ?	4	32
+58	Where is Milan ?	4	32
+59	What is the speed hummingbirds fly ?	5	46
+60	What is the oldest city in the United States ?	4	32
+61	What was W.C. Fields ' real name ?	3	29
+62	What river flows between Fargo , North Dakota and Moorhead , Minnesota ?	4	35
+63	What do bats eat ?	1	9
+64	What state did the Battle of Bighorn take place in ?	4	36
+65	Who was Abraham Lincoln ?	3	31
+66	What do you call a newborn kangaroo ?	1	21
+67	What are spider veins ?	2	24
+68	What day and month did John Lennon die ?	5	39
+69	What strait separates North America from Asia ?	4	35
+70	What is the population of Seattle ?	5	43
+71	How much was a ticket for the Titanic ?	5	41
+72	What is the largest city in the world ?	4	32
+73	What American composer wrote the music for `` West Side Story '' ?	3	29
+74	Where is the Mall of the America ?	4	35
+75	What is the pH scale ?	2	24
+76	What type of currency is used in Australia ?	1	6
+77	How tall is the Gateway Arch in St. Louis , MO ?	5	40
+78	How much does the human adult female brain weigh ?	5	49
+79	Who was the first governor of Alaska ?	3	29
+80	What is a prism ?	2	24
+81	When was the first liver transplant ?	5	39
+82	Who was elected president of South Africa in 1994 ?	3	29
+83	What is the population of China ?	5	43
+84	When was Rosa Parks born ?	5	39
+85	Why is a ladybug helpful ?	2	27
+86	What is amoxicillin ?	2	24
+87	Who was the first female United States Representative ?	3	29
+88	What are xerophytes ?	2	24
+89	What country did Ponce de Leon come from ?	4	33
+90	The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?	1	8
+91	What is desktop publishing ?	2	24
+92	What is the temperature of the sun 's surface ?	5	47
+93	What year did Canada join the United Nations ?	5	39
+94	What is the oldest university in the US ?	3	28
+95	Where is Prince Edward Island ?	4	35
+96	Mercury , what year was it discovered ?	5	39
+97	What is cryogenics ?	2	24
+98	What are coral reefs ?	2	24
+99	What is the longest major league baseball-winning streak ?	1	13
+100	What is neurology ?	2	24
+101	Who invented the calculator ?	3	29
+102	How do you measure earthquakes ?	2	26
+103	Who is Duke Ellington ?	3	31
+104	What county is Phoenix , AZ in ?	4	32
+105	What is a micron ?	2	24
+106	The sun 's core , what is the temperature ?	5	47
+107	What is the Ohio state bird ?	1	2
+108	When were William Shakespeare 's twins born ?	5	39
+109	What is the highest dam in the U.S. ?	4	35
+110	What color is a poison arrow frog ?	1	4
+111	What is acupuncture ?	2	24
+112	What is the length of the coastline of the state of Alaska ?	5	40
+113	What is the name of Neil Armstrong 's wife ?	3	29
+114	What is Hawaii 's state flower ?	1	14
+115	Who won Ms. American in 1989 ?	3	29
+116	When did the Hindenberg crash ?	5	39
+117	What mineral helps prevent osteoporosis ?	1	18
+118	What was the last year that the Chicago Cubs won the World Series ?	5	39
+119	Where is Perth ?	4	35
+120	What year did WWII begin ?	5	39
+121	What is the diameter of a golf ball ?	5	40
+122	What is an eclipse ?	2	24
+123	Who discovered America ?	3	29
+124	What is the earth 's diameter ?	5	40
+125	Which president was unmarried ?	3	29
+126	How wide is the Milky Way galaxy ?	5	40
+127	During which season do most thunderstorms occur ?	5	39
+128	What is Wimbledon ?	2	24
+129	What is the gestation period for a cat ?	5	44
+130	How far is a nautical mile ?	5	40
+131	Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?	3	29
+132	What does target heart rate mean ?	2	24
+133	What was the first satellite to go into space ?	1	15
+134	What is foreclosure ?	2	24
+135	What is the major fault line near Kentucky ?	1	13
+136	Where is the Holland Tunnel ?	4	35
+137	Who wrote the hymn `` Amazing Grace '' ?	3	29
+138	What position did Willie Davis play in baseball ?	3	30
+139	What are platelets ?	2	24
+140	What is severance pay ?	2	24
+141	What is the name of Roy Roger 's dog ?	1	2
+142	Where are the National Archives ?	4	35
+143	What is a baby turkey called ?	1	2
+144	What is poliomyelitis ?	2	24
+145	What is the longest bone in the human body ?	1	3
+146	Who is a German philosopher ?	3	29
+147	What were Christopher Columbus ' three ships ?	1	22
+148	What does Phi Beta Kappa mean ?	2	24
+149	What is nicotine ?	2	24
+150	What is another name for vitamin B1 ?	1	21
+151	Who discovered radium ?	3	29
+152	What are sunspots ?	2	24
+153	When was Algeria colonized ?	5	39
+154	What baseball team was the first to make numbers part of their uniform ?	3	28
+155	What continent is Egypt on ?	4	35
+156	What is the capital of Mongolia ?	4	32
+157	What is nanotechnology ?	2	24
+158	In the late 1700 's British convicts were used to populate which colony ?	4	35
+159	What state is the geographic center of the lower 48 states ?	4	36
+160	What is an obtuse angle ?	2	24
+161	What are polymers ?	2	24
+162	When is hurricane season in the Caribbean ?	5	39
+163	Where is the volcano Mauna Loa ?	4	35
+164	What is another astronomic term for the Northern Lights ?	1	21
+165	What peninsula is Spain part of ?	4	35
+166	When was Lyndon B. Johnson born ?	5	39
+167	What is acetaminophen ?	2	24
+168	What state has the least amount of rain per year ?	4	36
+169	Who founded American Red Cross ?	3	29
+170	What year did the Milwaukee Braves become the Atlanta Braves ?	5	39
+171	How fast is alcohol absorbed ?	5	46
+172	When is the summer solstice ?	5	39
+173	What is supernova ?	2	24
+174	Where is the Shawnee National Forest ?	4	35
+175	What U.S. state 's motto is `` Live free or Die '' ?	4	36
+176	Where is the Lourve ?	4	35
+177	When was the first stamp issued ?	5	39
+178	What primary colors do you mix to make orange ?	1	4
+179	How far is Pluto from the sun ?	5	40
+180	What body of water are the Canary Islands in ?	4	35
+181	What is neuropathy ?	2	24
+182	Where is the Euphrates River ?	4	35
+183	What is cryptography ?	2	24
+184	What is natural gas composed of ?	1	18
+185	Who is the Prime Minister of Canada ?	3	29
+186	What French ruler was defeated at the battle of Waterloo ?	3	29
+187	What is leukemia ?	2	24
+188	Where did Howard Hughes die ?	4	35
+189	What is the birthstone for June ?	1	18
+190	What is the sales tax in Minnesota ?	1	13
+191	What is the distance in miles from the earth to the sun ?	5	40
+192	What is the average life span for a chicken ?	5	44
+193	When was the first Wal-Mart store opened ?	5	39
+194	What is relative humidity ?	2	24
+195	What city has the zip code of 35824 ?	4	32
+196	What currency is used in Algeria ?	1	6
+197	Who invented the hula hoop ?	3	29
+198	What was the most popular toy in 1957 ?	1	15
+199	What is pastrami made of ?	1	18
+200	What is the name of the satellite that the Soviet Union sent into space in 1957 ?	1	15
+201	What city 's newspaper is called `` The Enquirer '' ?	4	32
+202	Who invented the slinky ?	3	29
+203	What are the animals that don 't have backbones called ?	1	2
+204	What is the melting point of copper ?	5	43
+205	Where is the volcano Olympus Mons located ?	4	35
+206	Who was the 23rd president of the United States ?	3	29
+207	What is the average body temperature ?	5	47
+208	What does a defibrillator do ?	2	25
+209	What is the effect of acid rain ?	2	25
+210	What year did the United States abolish the draft ?	5	39
+211	How fast is the speed of light ?	5	46
+212	What province is Montreal in ?	4	36
+213	What New York City structure is also known as the Twin Towers ?	4	35
+214	What is fungus ?	2	24
+215	What is the most frequently spoken language in the Netherlands ?	1	11
+216	What is sodium chloride ?	2	24
+217	What are the spots on dominoes called ?	1	21
+218	How many pounds in a ton ?	5	38
+219	What is influenza ?	2	24
+220	What is ozone depletion ?	2	24
+221	What year was the Mona Lisa painted ?	5	39
+222	What does `` Sitting Shiva '' mean ?	2	24
+223	What is the electrical output in Madrid , Spain ?	1	13
+224	Which mountain range in North America stretches from Maine to Georgia ?	4	34
+225	What is plastic made of ?	1	18
+226	What is the population of Nigeria ?	5	43
+227	What does your spleen do ?	2	25
+228	Where is the Grand Canyon ?	4	35
+229	Who invented the telephone ?	3	29
+230	What year did the U.S. buy Alaska ?	5	39
+231	What is the name of the leader of Ireland ?	3	29
+232	What is phenylalanine ?	2	24
+233	How many gallons of water are there in a cubic foot ?	5	38
+234	What are the two houses of the Legislative branch ?	1	13
+235	What is sonar ?	2	24
+236	In Poland , where do most people live ?	4	35
+237	What is phosphorus ?	2	24
+238	What is the location of the Sea of Tranquility ?	4	35
+239	How fast is sound ?	5	46
+240	What French province is cognac produced in ?	4	36
+241	What is Valentine 's Day ?	2	24
+242	What causes gray hair ?	2	27
+243	What is hypertension ?	2	24
+244	What is bandwidth ?	2	24
+245	What is the longest suspension bridge in the U.S. ?	4	35
+246	What is a parasite ?	2	24
+247	What is home equity ?	2	24
+248	What do meteorologists do ?	2	25
+249	What is the criterion for being legally blind ?	1	13
+250	Who is the tallest man in the world ?	3	29
+251	What are the twin cities ?	4	32
+252	What did Edward Binney and Howard Smith invent in 1903 ?	1	13
+253	What is the statue of liberty made of ?	1	18
+254	What is pilates ?	2	24
+255	What planet is known as the `` red '' planet ?	4	35
+256	What is the depth of the Nile river ?	5	40
+257	What is the colorful Korean traditional dress called ?	1	21
+258	What is Mardi Gras ?	2	24
+259	Mexican pesos are worth what in U.S. dollars ?	5	41
+260	Who was the first African American to play for the Brooklyn Dodgers ?	3	29
+261	Who was the first Prime Minister of Canada ?	3	29
+262	How many Admirals are there in the U.S. Navy ?	5	38
+263	What instrument did Glenn Miller play ?	1	10
+264	How old was Joan of Arc when she died ?	5	44
+265	What does the word fortnight mean ?	2	24
+266	What is dianetics ?	2	24
+267	What is the capital of Ethiopia ?	4	32
+268	For how long is an elephant pregnant ?	5	44
+269	How did Janice Joplin die ?	2	26
+270	What is the primary language in Iceland ?	1	11
+271	What is the difference between AM radio stations and FM radio stations ?	2	25
+272	What is osteoporosis ?	2	24
+273	Who was the first woman governor in the U.S. ?	3	29
+274	What is peyote ?	2	24
+275	What is the esophagus used for ?	2	27
+276	What is viscosity ?	2	24
+277	What year did Oklahoma become a state ?	5	39
+278	What is the abbreviation for Texas ?	0	0
+279	What is a mirror made out of ?	1	18
+280	Where on the body is a mortarboard worn ?	4	35
+281	What was J.F.K. 's wife 's name ?	3	29
+282	What does I.V. stand for ?	0	1
+283	What is the chunnel ?	2	24
+284	Where is Hitler buried ?	4	35
+285	What are antacids ?	2	24
+286	What is pulmonary fibrosis ?	2	24
+287	What are Quaaludes ?	2	24
+288	What is naproxen ?	2	24
+289	What is strep throat ?	2	24
+290	What is the largest city in the U.S. ?	4	32
+291	What is foot and mouth disease ?	1	7
+292	What is the life expectancy of a dollar bill ?	5	43
+293	What do you call a professional map drawer ?	1	21
+294	What are Aborigines ?	2	24
+295	What is hybridization ?	2	24
+296	What color is indigo ?	1	4
+297	How old do you have to be in order to rent a car in Italy ?	5	44
+298	What does a barometer measure ?	1	13
+299	What color is a giraffe 's tongue ?	1	4
+300	What does USPS stand for ?	0	1
+301	What year did the NFL go on strike ?	5	39
+302	What is solar wind ?	2	24
+303	What date did Neil Armstrong land on the moon ?	5	39
+304	When was Hiroshima bombed ?	5	39
+305	Where is the Savannah River ?	4	35
+306	Who was the first woman killed in the Vietnam War ?	3	29
+307	What planet has the strongest magnetic field of all the planets ?	4	35
+308	Who is the governor of Alaska ?	3	29
+309	What year did Mussolini seize power in Italy ?	5	39
+310	What is the capital of Persia ?	4	32
+311	Where is the Eiffel Tower ?	4	35
+312	How many hearts does an octopus have ?	5	38
+313	What is pneumonia ?	2	24
+314	What is the deepest lake in the US ?	4	35
+315	What is a fuel cell ?	2	24
+316	Who was the first U.S. president to appear on TV ?	3	29
+317	Where is the Little League Museum ?	4	35
+318	What are the two types of twins ?	1	13
+319	What is the brightest star ?	4	35
+320	What is diabetes ?	2	24
+321	When was President Kennedy shot ?	5	39
+322	What is TMJ ?	0	1
+323	What color is yak milk ?	1	4
+324	What date was Dwight D. Eisenhower born ?	5	39
+325	What does the technical term ISDN mean ?	0	1
+326	Why is the sun yellow ?	2	27
+327	What is the conversion rate between dollars and pounds ?	5	41
+328	When was Abraham Lincoln born ?	5	39
+329	What is the Milky Way ?	2	24
+330	What is mold ?	2	24
+331	What year was Mozart born ?	5	39
+332	What is a group of frogs called ?	1	2
+333	What is the name of William Penn 's ship ?	1	22
+334	What is the melting point of gold ?	5	43
+335	What is the street address of the White House ?	4	35
+336	What is semolina ?	2	24
+337	What fruit is Melba sauce made from ?	1	9
+338	What is Ursa Major ?	2	24
+339	What is the percentage of water content in the human body ?	5	45
+340	How much does water weigh ?	5	49
+341	What was President Lyndon Johnson 's reform program called ?	1	8
+342	What is the murder rate in Windsor , Ontario ?	5	45
+343	Who is the only president to serve 2 non-consecutive terms ?	3	29
+344	What is the population of Australia ?	5	43
+345	Who painted the ceiling of the Sistine Chapel ?	3	29
+346	Name a stimulant .	1	7
+347	What is the effect of volcanoes on the climate ?	2	25
+348	What year did the Andy Griffith show begin ?	5	39
+349	What is acid rain ?	2	24
+350	What is the date of Mexico 's independence ?	5	39
+351	What is the location of Lake Champlain ?	4	35
+352	What is the Illinois state flower ?	1	14
+353	What is Maryland 's state bird ?	1	2
+354	What is quicksilver ?	2	24
+355	Who wrote `` The Divine Comedy '' ?	3	29
+356	What is the speed of light ?	5	46
+357	What is the width of a football field ?	5	40
+358	Why in tennis are zero points called love ?	2	27
+359	What kind of dog was Toto in the Wizard of Oz ?	1	2
+360	What is a thyroid ?	2	24
+361	What does ciao mean ?	2	24
+362	What is the only artery that carries blue blood from the heart to the lungs ?	1	3
+363	How often does Old Faithful erupt at Yellowstone National Park ?	5	43
+364	What is acetic acid ?	2	24
+365	What is the elevation of St. Louis , MO ?	5	40
+366	What color does litmus paper turn when it comes into contact with a strong acid ?	1	4
+367	What are the colors of the German flag ?	1	4
+368	What is the Moulin Rouge ?	2	24
+369	What soviet seaport is on the Black Sea ?	4	35
+370	What is the atomic weight of silver ?	5	49
+371	What currency do they use in Brazil ?	1	6
+372	What are pathogens ?	2	24
+373	What is mad cow disease ?	2	24
+374	Name a food high in zinc .	1	9
+375	When did North Carolina enter the union ?	5	39
+376	Where do apple snails live ?	4	35
+377	What are ethics ?	2	24
+378	What does CPR stand for ?	0	1
+379	What is an annuity ?	2	24
+380	Who killed John F. Kennedy ?	3	29
+381	Who was the first vice president of the U.S. ?	3	29
+382	What birthstone is turquoise ?	1	18
+383	Who was the first US President to ride in an automobile to his inauguration ?	3	29
+384	How old was the youngest president of the United States ?	5	44
+385	When was Ulysses S. Grant born ?	5	39
+386	What is Muscular Dystrophy ?	2	24
+387	Who lived in the Neuschwanstein castle ?	3	29
+388	What is propylene glycol ?	2	24
+389	What is a panic disorder ?	2	24
+390	Who invented the instant Polaroid camera ?	3	29
+391	What is a carcinogen ?	2	24
+392	What is a baby lion called ?	1	2
+393	What is the world 's population ?	5	43
+394	What is nepotism ?	2	24
+395	What is die-casting ?	2	24
+396	What is myopia ?	2	24
+397	What is the sales tax rate in New York ?	5	43
+398	Developing nations comprise what percentage of the world 's population ?	5	45
+399	What is the fourth highest mountain in the world ?	4	34
+400	What is Shakespeare 's nickname ?	3	29
+401	What is the heaviest naturally occurring element ?	1	18
+402	When is Father 's Day ?	5	39
+403	What does the acronym NASA stand for ?	0	1
+404	How long is the Columbia River in miles ?	5	40
+405	What city 's newspaper is called `` The Star '' ?	4	32
+406	What is carbon dioxide ?	2	24
+407	Where is the Mason/Dixon line ?	4	35
+408	When was the Boston tea party ?	5	39
+409	What is metabolism ?	2	24
+410	Which U.S.A. president appeared on `` Laugh-In '' ?	3	29
+411	What are cigarettes made of ?	1	18
+412	What is the capital of Zimbabwe ?	4	32
+413	What does NASA stand for ?	0	1
+414	What is the state flower of Michigan ?	1	14
+415	What are semiconductors ?	2	24
+416	What is nuclear power ?	2	24
+417	What is a tsunami ?	2	24
+418	Who is the congressman from state of Texas on the armed forces committee ?	3	29
+419	Who was president in 1913 ?	3	29
+420	When was the first kidney transplant ?	5	39
+421	What are Canada 's two territories ?	4	35
+422	What was the name of the plane Lindbergh flew solo across the Atlantic ?	1	22
+423	What is genocide ?	2	24
+424	What continent is Argentina on ?	4	35
+425	What monastery was raided by Vikings in the late eighth century ?	1	13
+426	What is an earthquake ?	2	24
+427	Where is the tallest roller coaster located ?	4	35
+428	What are enzymes ?	2	24
+429	Who discovered oxygen ?	3	29
+430	What is bangers and mash ?	2	24
+431	What is the name given to the Tiger at Louisiana State University ?	1	2
+432	Where are the British crown jewels kept ?	4	35
+433	Who was the first person to reach the North Pole ?	3	29
+434	What is an ulcer ?	2	24
+435	What is vertigo ?	2	24
+436	What is the spirometer test ?	2	24
+437	When is the official first day of summer ?	5	39
+438	What does the abbreviation SOS mean ?	0	1
+439	What is the smallest bird in Britain ?	1	2
+440	Who invented Trivial Pursuit ?	3	29
+441	What gasses are in the troposphere ?	1	18
+442	Which country has the most water pollution ?	4	33
+443	What is the scientific name for elephant ?	1	2
+444	Who is the actress known for her role in the movie `` Gypsy '' ?	3	29
+445	What breed of hunting dog did the Beverly Hillbillies own ?	1	2
+446	What is the rainiest place on Earth ?	4	35
+447	Who was the first African American to win the Nobel Prize in literature ?	3	29
+448	When is St. Patrick 's Day ?	5	39
+449	What was FDR 's dog 's name ?	1	2
+450	What colors need to be mixed to get the color pink ?	1	4
+451	What is the most popular sport in Japan ?	1	17
+452	What is the active ingredient in baking soda ?	1	9
+453	When was Thomas Jefferson born ?	5	39
+454	How cold should a refrigerator be ?	5	47
+455	When was the telephone invented ?	5	39
+456	What is the most common eye color ?	1	4
+457	Where was the first golf course in the United States ?	4	35
+458	What is schizophrenia ?	2	24
+459	What is angiotensin ?	2	24
+460	What did Jesse Jackson organize ?	3	28
+461	What is New York 's state bird ?	1	2
+462	What is the National Park in Utah ?	4	35
+463	What is Susan B. Anthony 's birthday ?	5	39
+464	In which state would you find the Catskill Mountains ?	4	36
+465	What do you call a word that is spelled the same backwards and forwards ?	1	21
+466	What are pediatricians ?	2	24
+467	What chain store is headquartered in Bentonville , Arkansas ?	3	28
+468	What are solar cells ?	2	24
+469	What is compounded interest ?	2	24
+470	What are capers ?	2	24
+471	What is an antigen ?	2	24
+472	What currency does Luxembourg use ?	1	6
+473	What is the population of Venezuela ?	5	43
+474	What type of polymer is used for bulletproof vests ?	1	13
+475	What currency does Argentina use ?	1	6
+476	What is a thermometer ?	2	24
+477	What Canadian city has the largest population ?	4	32
+478	What color are crickets ?	1	4
+479	Which country gave New York the Statue of Liberty ?	4	33
+480	What was the name of the first U.S. satellite sent into space ?	1	15
+481	What precious stone is a form of pure carbon ?	1	18
+482	What kind of gas is in a fluorescent bulb ?	1	18
+483	What is rheumatoid arthritis ?	2	24
+484	What river runs through Rowe , Italy ?	4	35
+485	What is cerebral palsy ?	2	24
+486	What city is also known as `` The Gateway to the West '' ?	4	32
+487	How far away is the moon ?	5	40
+488	What is the source of natural gas ?	1	13
+489	In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?	1	22
+490	What is pectin ?	2	24
+491	What is bio-diversity ?	2	24
+492	What 's the easiest way to remove wallpaper ?	1	20
+493	What year did the Titanic start on its journey ?	5	39
+494	How much of an apple is water ?	5	38
+495	Who was the 22nd President of the US ?	3	29
+496	What is the money they use in Zambia ?	1	6
+497	How many feet in a mile ?	5	38
+498	What is the birthstone of October ?	1	18
+499	What is e-coli ?	2	24
